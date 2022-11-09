@@ -1,5 +1,5 @@
 +++
-title = "A friend just told me a joke"
+title = "It's getting bad again. It keeps getting bad again"
 date = "2022-10-31"
 
 [taxonomies]
