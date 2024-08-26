@@ -1,6 +1,6 @@
 +++
-title = "Kai lietus jus laistys broliai"
-date = "2024-05-30"
+title = "Aš dažnai apie tai pagalvoju"
+date = "2024-08-23"
 
 [taxonomies]
 languages = ["LT"]
@@ -10,23 +10,27 @@ tags = ["Poetry"]
 author = "Linas Nikiperavičius"
 +++
 ```
-Kai lietus jus laistys broliai,
-Nenueikite per toliai.
-Kai griaustinis gąsdins sesę,
-Kvieskit mamą, kvieskit tetę.
+Aš dažnai apie tai pagalvoju,
+Kaip gera mums būti kartu...
+Aš dažnai apie tai negalvoju,
+Bet noriu su tavimi vaikų.
 ```
 <!-- more -->
 ```
 
-Taip senoliai sake
-Savo palikuoniams..
-Tačiau visa tai ką patys darė,
-Tai kas mus žmogum padaro amžiams.
-Visa tai jie pasiliko
-ir jau tik kapan nuvilko.
+Aš labai jų norėčiau,
+Tokių mažyčių ir trapių.
+Iš darbo aš pastoviai bėgčiau,
+Kad tik išsilydyt nuo tavo akių.
 
-Kai lietus jus laistys broliai,
-Nenueikite per toliai.
-Kai griaustinis gąsdins sesę,
-Kvieskit mamą, kvieskit tetę.
+Norėčiau aš keletos,
+Galbūt vienos mergaitės,
+Galbūt vieno berniuko.
+Galėčiau pamesti juos iki pat padangės,
+Galėčiau kartu norėti šuniuko...
+
+Tu būtum tobula mama,
+Aš padorus tėtis.
+Tokia svajonių kupina nata,
+Mum reikia į Paryžių daiktus dėtis.
 ```
